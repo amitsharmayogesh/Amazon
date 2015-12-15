@@ -1,0 +1,5 @@
+CONTROL_NAME,TEXT,ID,NAME,CLASSNAME,LINKTEXT,PARTIALLINKTEXT,TAGNAME,CSSSELECTOR,XPATH
+SignIn_Link,,,,,,,,,//a[@id='nav-link-yourAccount']/span[@class='nav-line-1']
+Email_Field,,,,,,,,,//input[@id='ap_email']
+Password_Field,,,,,,,,,//input[@id='ap_password']
+LogIn_Button,,,,,,,,,//input[@id='signInSubmit']
